@@ -8,7 +8,7 @@
     "url": "git@github.com:aranajhonny/platzi-curso-Frontend.git"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "gulp webserver"
   },
   "author": "jhonny arana",
   "license": "GPL-3.0",
