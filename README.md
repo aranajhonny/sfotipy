@@ -1,5 +1,7 @@
 # sfotipy
 ### Run
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/aranajhonny/sfotipy.svg)](https://greenkeeper.io/)
  * sudo npm install
  * gulp build
 
